@@ -2521,7 +2521,6 @@ input[type="radio"]+label:before {
 .icon:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
 	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;
@@ -2538,7 +2537,6 @@ input[type="radio"]+label:before {
 .icon.alt:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
 	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;
@@ -2572,7 +2570,6 @@ input[type="radio"]+label:before {
 .icon.major.alt:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
 	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;
@@ -3542,7 +3539,7 @@ body.landing #header {
 #banner {
 	background-attachment: fixed;
 	background-color: #272833;
-	background-image: url("../../images/banner.jpg");
+	background-image: url("../../images/venice.jpeg");
 	background-position: center center;
 	background-size: cover;
 	box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3638,7 +3635,6 @@ body.is-touch #banner {
 #footer .icons .icon.alt:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
 	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;
